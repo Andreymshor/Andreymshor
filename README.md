@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a MERN stack recipe application known as Zest<br>👯 II’m looking to collaborate on Open Source ML Projects for HackOctoberfest<br>🤝 I’m looking for help with learning the MERN Stack<br>🌱 I’m currently learning Fullstack application development<br>💬 Ask me about Machine Learning<br>⚡ Fun fact: During my free time I love to take road trips and go hiking!
+🔭 I'm currently working on Zest, a Mern stack recipe application<br>👯 II’m looking to collaborate on Open Source ML Projects for HackOctoberfest<br>🤝 I’m looking for help with learning the MERN Stack<br>🌱 I’m currently learning Fullstack application development<br>💬 Ask me about Machine Learning<br>⚡ Fun fact: During my free time I love to take road trips and go hiking!
 
 
 ## 🌐 Socials:
