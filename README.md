@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a MERN stack recipe application known as Zest<br>👯 I’m looking to collaborate on Open Source ML Projects for HackOctober<br>🤝 I’m looking for help with learning the MERN Stack<br>🌱 I’m currently learning Fullstack application development<br>💬 Ask me about Machine Learning<br>⚡ Fun fact: I am currently a senior at Purdue University studying Computer Science with a minor in Psychology.<br> I love to work on problems that bridge Statistical Machine Learning, <br>Human-Computer Interaction, and Theoretical Computer Science. <br>I am actively seeking opportunities where I can apply my passion <br>for Machine Learning and Data Science.
+🔭 I’m currently working on a MERN stack recipe application known as Zest<br>👯 I’m looking to collaborate on Open Source ML Projects for HackOctober<br>🤝 I’m looking for help with learning the MERN Stack<br>🌱 I’m currently learning Fullstack application development<br>💬 Ask me about Machine Learning<br>⚡ Fun fact: During my free time I love to take road trips and go hiking!
 
 
 ## 🌐 Socials:
